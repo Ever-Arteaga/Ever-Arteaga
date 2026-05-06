@@ -106,6 +106,6 @@ developer = {
 
 *"El buen diseño no es solo cómo se ve, es cómo funciona."* — Steve Jobs
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Ever-Arteagacolor=F7A800&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=Ever-Arteaga&color=F7A800&style=flat-square)
 
 </div>
