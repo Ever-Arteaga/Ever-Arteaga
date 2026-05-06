@@ -70,8 +70,8 @@ developer = {
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ever-Arteaga&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ever-Arteaga&layout=compact&langs_count=7&theme=radical"/>
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ever-Arteaga&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ever-Arteaga&layout=compact&langs_count=7&theme=radical"/>
 
 </div>
 
@@ -106,6 +106,6 @@ developer = {
 
 *"El buen diseño no es solo cómo se ve, es cómo funciona."* — Steve Jobs
 
-![Visitor Count](https://komarev.com/ghpvc/?username=TU_USUARIO&color=F7A800&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=Ever-Arteagacolor=F7A800&style=flat-square)
 
 </div>
