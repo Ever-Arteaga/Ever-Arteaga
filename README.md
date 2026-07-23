@@ -1,6 +1,6 @@
 <div align="center">  
 
-# Hola, soy [Ever Arteaga] 👋
+# Hola, soy Ever Arteaga 👋
 
 ### 🎨 Frontend Developer en formación · Apasionado por crear experiencias web únicas
 
@@ -95,7 +95,7 @@ developer = {
   <a href="https://linkedin.com/in/ever-arteaga-8430a238b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://ever-arteaga.github.io/Ever-Arteaga/Index">
+  <a href="https://ever-arteaga.github.io/Ever-Arteaga">
     <img src="https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
